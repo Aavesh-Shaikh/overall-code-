@@ -1,0 +1,14 @@
+.Cards{
+    
+    display: grid;
+    grid-template-columns: 30%,20%,20%;
+}
+.card{
+    display: flex;
+    width: 500px;
+    height: 300px;
+}
+.image{
+    width:200px;
+    height: 150px;
+}
